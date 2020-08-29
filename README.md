@@ -19,7 +19,7 @@
 <img height="15" src="https://img.icons8.com/cute-clipart/64/000000/email.png"/> Reach me at: <a href="mailto:bryancaldeira22@gmail.com">bryancaldeira22@gmail.com</a>
 <br />
 
-**Programming Languages** <br /> 
+**Programming Languages** <br /><br />
 <img height="35" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/javascript.png"/>
