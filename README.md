@@ -26,4 +26,4 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
 **Programming Tools**
-<img src="https://img.icons8.com/color/48/000000/git.png"/>
+<img height="35" src="https://img.icons8.com/color/48/000000/git.png"/>
