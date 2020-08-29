@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.instagram.com/bryan.caldeira">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 
 <br />
