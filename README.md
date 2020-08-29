@@ -28,4 +28,5 @@
 **Programming Tools** <br />
 <img height="35" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img height="35" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img height="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
