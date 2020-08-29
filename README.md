@@ -20,3 +20,4 @@
 <br />
 
 **Skills**  
+<img height="25" src="https://img.icons8.com/color/48/000000/python.png"/>
