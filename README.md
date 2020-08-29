@@ -25,7 +25,7 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 
-**Programming Tools** <br />
+**Programming Tools** <br /><br />
 <img height="35" src="https://img.icons8.com/color/48/000000/git.png"/>
 <img height="32" src="https://netbeans.apache.org/images/apache-netbeans.svg"/>
 <img height="35" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
