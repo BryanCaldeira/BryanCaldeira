@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img src="https://img.icons8.com/cute-clipart/64/000000/email.png"/> Reach me at: <a href="mailto:bryancaldeira22@gmail.com">bryancaldeira22@gmail.com</a>
+<img height="10px" src="https://img.icons8.com/cute-clipart/64/000000/email.png"/> Reach me at: <a href="mailto:bryancaldeira22@gmail.com">bryancaldeira22@gmail.com</a>
 <br />
 
 **Languages and Tools:**  
