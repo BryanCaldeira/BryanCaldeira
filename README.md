@@ -41,7 +41,7 @@
 **Editing Tools** <br /><br />
 <img height="35" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/>
-
+<img height="35" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 
 
 
