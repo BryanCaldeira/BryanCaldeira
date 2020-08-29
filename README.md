@@ -37,4 +37,16 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/sublime-text.png"/>
 <img height="35" src="https://img.icons8.com/fluent/48/000000/console.png"/>
 
-**Editing Tools**
+**Editing Tools** <br /><br />
+<img height="35" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
+
+
+
+
+
+
+
+
+
+
+
