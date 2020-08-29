@@ -15,7 +15,8 @@
 
 Hi, I'm Bryan Caldeira, a Full Stack Developer 🚀
 
-📫 Reach me at: bryancaldeira22@gmail.com;
+📫 Reach me at: bryancaldeira22@gmail.com 
+<br />
 📝[Resume](https://pdfhost.io/v/mWCxVKMpf_resume1pdf.pdf)
 
 **Languages and Tools:**  
