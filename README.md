@@ -33,4 +33,4 @@
 <img height="35" src="https://jupyter.org/assets/main-logo.svg"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img height="35" src="https://img.icons8.com/ios/50/000000/atom-editor.png"/>
+<img height="32" src="https://img.icons8.com/ios/50/000000/atom-editor.png"/>
