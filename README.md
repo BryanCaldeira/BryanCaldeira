@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hey 👋🏽, I'm [Bryan Caldeira!](https://adarshreddyash.github.io) 
+### Hey 👋🏽, I'm [Bryan Caldeira!]
 
 <a href="https://twitter.com/bryan_caldeira">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +17,6 @@ Hi, I'm Bryan Caldeira, a Full Stack Developer 🚀
 
 📫 Reach me at: <a href="mailto:bryancaldeira22@gmail.com">bryancaldeira22@gmail.com</a>
 <br />
-📝[Resume](https://pdfhost.io/v/mWCxVKMpf_resume1pdf.pdf)
 
 **Languages and Tools:**  
 
