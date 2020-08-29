@@ -43,7 +43,7 @@
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 <img height="33" src="https://img.icons8.com/dusk/64/000000/filmora9.png"/>
-<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Affinity_Photo_icon.png"/>
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Affinity_Photo_icon.png"/>
 
 
 
