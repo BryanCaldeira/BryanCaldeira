@@ -20,7 +20,8 @@
 <br />
 
 **Programming Languages and Tools**  
+<img height="35" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img height="35" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img height="35" src="https://img.icons8.com/color/48/000000/python.png"/>
+
 
