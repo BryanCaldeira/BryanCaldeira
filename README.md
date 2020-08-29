@@ -2,15 +2,15 @@
 ### I'm Bryan Caldeira, a Full Stack Developer 🚀
 
 <a href="https://twitter.com/bryan_caldeira">
-  <img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+  <img height="25" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/bryan-caldeira">
-  <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  <img height="25" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
 <a href="https://www.instagram.com/bryan.caldeira">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+  <img height="25" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
 </a>
 
 <br />
