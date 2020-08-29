@@ -1,4 +1,4 @@
-## Hiii there 👋
+## Hiii there <img src="https://img.icons8.com/flat_round/64/000000/ok-hand.png"/>
 ### I'm Bryan Caldeira, a Full Stack Developer 🚀
 
 <a href="https://twitter.com/bryan_caldeira">
