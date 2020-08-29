@@ -1,5 +1,5 @@
-### Hi there 👋
-### Hey 👋🏽, I'm [Bryan Caldeira!]
+## Hi there 👋
+### Hi, I'm Bryan Caldeira, a Full Stack Developer 🚀
 
 <a href="https://twitter.com/bryan_caldeira">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -12,8 +12,6 @@
 </a>
 <br />
 <br />
-
-Hi, I'm Bryan Caldeira, a Full Stack Developer 🚀
 
 📫 Reach me at: <a href="mailto:bryancaldeira22@gmail.com">bryancaldeira22@gmail.com</a>
 <br />
