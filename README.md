@@ -1,5 +1,5 @@
 ## Hiii there <img height="20" src="https://img.icons8.com/flat_round/64/000000/ok-hand.png"/>
-### I'm Bryan Caldeira, a Full Stack Developer <img height="25" src="https://img.icons8.com/pastel-glyph/100/000000/source-code--v3.png"/>
+### I'm Bryan Caldeira, a Programmer and Web Developer <img height="25" src="https://img.icons8.com/pastel-glyph/100/000000/source-code--v3.png"/>
 
 <a href="https://twitter.com/bryan_caldeira">
   <img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
